@@ -95,6 +95,8 @@ public class Main {
         List<String> flavios = list.stream().filter(nome -> nome.startsWith("Flavio")).toList();
         System.out.println("Flavios: " + flavios);
 
+        teste
+
 
 
 
